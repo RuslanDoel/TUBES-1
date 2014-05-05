@@ -4,7 +4,7 @@
 <xml id="contact-person">
 <contact>
 <name>Ruslan, </name>
-<company>PT. PariS City, </company>
+<company>PT. Paris City, </company>
 <address>Jl. Paris. Ds. Jayaratu, </address>
 <city>Tasikmalaya, </city>
 <state>Indonesia, </state>
