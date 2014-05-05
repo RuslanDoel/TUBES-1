@@ -27,3 +27,15 @@
 
 </body>
 </html>
+
+<?xml version="1.0" encoding="ISO-8859-1"?><contact>
+<contact>
+<name> Rizki Abdillah</name>
+<company>PT. Ciamis</company>
+<address>Jl. Icakan</address>
+<city>Ciamis</city>
+<state>Indonesia</state>
+<zip>54321</zip>
+<phone>081328462499</phone>
+<email>yadi@gamatechno.com</email>
+</contact>
