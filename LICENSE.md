@@ -3,13 +3,13 @@
 
 <xml id="contact-person">
 <contact>
-<name>Ruslan</name>
-<company>PT. PariS City</company>
-<address>Jl. Paris. Ds. Jayaratu</address>
-<city>Tasikmalaya</city>
-<state>Indonesia</state>
-<zip>12345</zip>
-<phone>082118535561</phone>
+<name>Ruslan, </name>
+<company>PT. PariS City, </company>
+<address>Jl. Paris. Ds. Jayaratu, </address>
+<city>Tasikmalaya, </city>
+<state>Indonesia, </state>
+<zip>12345,  </zip>
+<phone>CP: 085793487727, </phone>
 <email>d_doel25@yahoo.com</email>
 </contact>
 </xml>
